@@ -1,5 +1,5 @@
 
-# End-to-End Pneumonia Detection 
+# Pneumonia Detection 
 
 This notebook build an end-to-end build a pneumonia detection system, to locate the position of inflammation in an image.
 
